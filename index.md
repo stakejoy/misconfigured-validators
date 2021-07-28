@@ -5,6 +5,9 @@ it means that your validator cannot be reached by the other validators on the ne
 
 If you need help? Ask on discord. Our goal is optimal and equal performance for the network. 
 
+Once you have fixed will will check once every couple days and remove you from the list. You can also 
+open a pull request or email sean@stakejoy.com
+
 
 <table border="1">
 <tr><td>Address</td></tr>
