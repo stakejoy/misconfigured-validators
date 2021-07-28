@@ -1,3 +1,11 @@
+## Ayyyy The Community is here to help!
+The following addresses are a list of misconfigured validators. To ensure the proper
+performance of the Helium Validator, we want to help you fix it! If your address is on this page 
+it means that your validator cannot be reached by the other validators on the network. This is bad!
+
+If you need help? Ask on discord. Our goal is optimal and equal performance for the network. 
+
+
 <table border="1">
 <tr><td>Address</td></tr>
 <tr><td>13vFnE4FaZEJUGJMn35ekpFjVHcBwnnBQrcGMGjvYPhAf1wYhkQ</td></tr>
