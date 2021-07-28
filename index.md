@@ -5,11 +5,12 @@ it means that your validator cannot be reached by the other validators on the ne
 
 If you need help? Ask on discord. Our goal is optimal and equal performance for the network. 
 
-## How do I get off the VIP list?
+## How do I get off the Shit list?
 Once you have fixed we will check once every couple days and remove you from the list. You can also 
 open a pull request or email sean@stakejoy.com
 
-## Wed Jul 28 15:47:45 EDT 2021
+### Last Run: Wed Jul 28 15:47:45 EDT 2021
+> Total Validators: **70**
 
 > ### low-juniper-reindeer
 > Address: [13efvhXpFYqavHaRdX7QgkRzypgB5Jz2zDWWbKHbBcAbGKyeiFT](https://explorer.helium.com/validators/13efvhXpFYqavHaRdX7QgkRzypgB5Jz2zDWWbKHbBcAbGKyeiFT)<br>
