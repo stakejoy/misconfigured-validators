@@ -10,6 +10,7 @@ Once you have fixed we will check once every couple days and remove you from the
 open a pull request or email sean@stakejoy.com
 
 ### Last Run: Fri Jul 30 02:13:14 UTC 2021
+### 56 Validators
 
 > ### low-juniper-reindeer
 > Address: [13efvhXpFYqavHaRdX7QgkRzypgB5Jz2zDWWbKHbBcAbGKyeiFT](https://explorer.helium.com/validators/13efvhXpFYqavHaRdX7QgkRzypgB5Jz2zDWWbKHbBcAbGKyeiFT)<br>
